@@ -1,2 +1,2 @@
 # COLOR
-A responsive website
+A responsive website in progress
